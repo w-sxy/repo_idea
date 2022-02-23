@@ -61,12 +61,6 @@ public interface UserMapper {
     public void test51();
     public void test61();
     public void test71();
-
-
-
-
-
-
     public void test1();
     public void test2();
     public void test3();
